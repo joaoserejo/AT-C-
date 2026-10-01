@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="ATC#/Questao02.csproj" />
+  <Project Path="Queestao10/Questao10.csproj" Id="20ed61c3-437d-470b-aae0-6c29302b0c61" />
+  <Project Path="Questao011/Questao11.csproj" Id="d62c94fb-7bae-48e0-af55-f762148f6ac8" />
+  <Project Path="Questao012/Questao12.csproj" Id="03a7c99f-9b3f-4828-a65e-dab775908851" />
+  <Project Path="Questao1/Questao01.csproj" Id="114d704b-35d8-4c89-857c-3414cb842366" />
+  <Project Path="Questao3/Questao03.csproj" Id="802f556f-6cc7-4f54-b47c-084d94dc6f31" />
+  <Project Path="Questao4/Questao04.csproj" Id="61b72392-a2fb-4b7b-8e75-3723e52177cc" />
+  <Project Path="Questao5/Questao05.csproj" Id="0de99502-feb7-4d54-b340-1bcd032914b6" />
+  <Project Path="Questao6/Questao06.csproj" Id="41e530bb-37ba-40a7-8ab5-dc70f78ed831" />
+  <Project Path="Questao7/Questao07.csproj" Id="655df922-500e-4b54-87c1-2230d7f0ea1a" />
+  <Project Path="Questao8/Questao08.csproj" Id="1c3e6414-ef51-4dec-a681-989deb4fdcb8" />
+  <Project Path="Quetao9/Questao09.csproj" Id="9389c4bb-27e4-463e-9b67-cff910f58e8b" />
+</Solution>

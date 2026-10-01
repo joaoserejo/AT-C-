@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace Questao8
+{
+    public class Funcionario
+    {
+        public string Nome { get; set; }
+        public string Cargo { get; set; }
+        public double SalarioBase { get; set; }
+
+        public Funcionario(string nome, string cargo, double salarioBase)
+        {
+            Nome = nome;
+            Cargo = cargo;
+            SalarioBase = salarioBase;
+        }
+
+        public virtual double CalcularSalario()
+        {
+            return SalarioBase;
+        }
+    }
+}
